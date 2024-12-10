@@ -27,7 +27,7 @@ SuperStore/
 **How to Use**
 
 1. Clone the Repository:
-        git clone https://github.com/your-username/your-repo-name.git
+        git clone https://github.com/ReyPescado/PowerBI_Projects.git
 2. Open Power BI Desktop: Launch the Power BI Desktop application.
 3. Open the .pbix File: Navigate to the project folder and open the .pbix file.
 4. Refresh Data: If necessary, refresh the data connections to ensure the latest data is used.
